@@ -1,0 +1,12 @@
+# 办公自动化工具箱 v3.0 - 云部署版
+
+# Python 版本
+python-3.11.0
+
+# 依赖
+Flask==3.0.0
+openpyxl==3.1.2
+pandas==2.1.4
+PyPDF2==3.0.1
+python-dateutil==2.8.2
+gunicorn==21.2.0
